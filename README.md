@@ -1,12 +1,17 @@
 # BoxBreaker
- simple single scene game where you click rectable to change break them.
+A Simple Game JavaFX for beginner level
+
+we have boxes with different levels you click a box to lose it's life with it's left top right down neighbours life.
+white mean it's end of the box. ( dead )
+
+(it was freelance work in 2020)
  
  * Tools used
  Java Programming language
  JavaFX User Interface framework
- 
- * work experience gain and used
- event handling in javafx
+
+
+ preview
  
  
 ![](ezgif.com-gif-maker.gif)
