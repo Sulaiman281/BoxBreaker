@@ -1,0 +1,5 @@
+org\example\App.class
+org\example\game\BoxBroker.class
+org\example\SystemInfo.class
+module-info.class
+org\example\game\BoxBroker$Box.class
